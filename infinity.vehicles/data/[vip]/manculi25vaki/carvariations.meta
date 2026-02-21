@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CVehicleModelInfoVariation>
+	<variationData>
+		<Item>
+			<modelName>manculi25vaki</modelName>
+			<colors>
+				<Item>
+          <indices content="char_array">
+            5 
+            157 
+            156 
+            79
+			111
+			140
+          </indices>
+        </Item>
+		<Item>
+          <indices content="char_array"> 
+            1
+            112
+            156
+            111
+	        129
+	        111
+          </indices>
+        </Item>
+			</colors>
+			<kits>
+			<Item>31341_manculi25vaki_modkit</Item>
+			</kits>
+			<windowsWithExposedEdges />
+			<plateProbabilities>
+			<Probabilities>
+				<Item>
+					<Name>Standard White</Name>
+					<Value value="20" />
+				</Item>
+				<Item>
+					<Name>White Plate 2</Name>
+					<Value value="20" />
+				</Item>
+				<Item>
+					<Name>Blue Plate</Name>
+					<Value value="20" />
+				</Item>
+				<Item>
+					<Name>Yellow Plate</Name>
+					<Value value="20" />
+				</Item>
+				<Item>
+					<Name>yankton plate</Name>
+					<Value value="20" />
+				</Item>
+				</Probabilities>
+			</plateProbabilities>
+			<lightSettings value="0" />
+			<sirenSettings value="0" />
+		</Item>
+	</variationData>
+</CVehicleModelInfoVariation>

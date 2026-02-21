@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>GSD25EMSDur</modelName>
+     <colors>
+        <Item>
+          <indices content="char_array">
+            0 
+            0 
+            0 
+			0
+            5
+			0			
+          </indices>
+          <liveries>
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+	  <indices content="char_array">
+            0 
+            0 
+            0 
+			0
+            5
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+	  <indices content="char_array">
+            0 
+            0 
+            0 
+			0
+            5 
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+          </liveries>
+        </Item>
+        <Item>
+	  <indices content="char_array">
+            0 
+            0 
+            0 
+			0
+            5
+			0
+          </indices>
+          <liveries>
+            <Item value="false" />
+          </liveries>
+        </Item>
+      </colors>
+      <kits>
+        <Item>872_GSDEmsFireDurango_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="242" />
+      <sirenSettings value="10283" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>

@@ -1,0 +1,133 @@
+<!-- Infinity RP -->
+<!-- Justice Layouts -->
+<!-- Version: 1.0 -->
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleMetadataMgr>
+    <AnimRateSets />
+    <ClipSetMaps />
+    <VehicleCoverBoundOffsetInfos />
+    <BicycleInfos />
+    <POVTuningInfos />
+    <EntryAnimVariations />
+    <VehicleExtraPointsInfos />
+    <DrivebyWeaponGroups />
+    <VehicleDriveByAnimInfos />
+    <VehicleDriveByInfos />
+    <VehicleSeatInfos />
+    <VehicleEntryPointInfos>
+        <!-- mh60l -->
+        <Item type="CVehicleEntryPointInfo">
+            <Name>ENTRY_POINT_HELI_REAR_LEFT_MH60L</Name>
+            <DoorBoneName />
+            <SecondDoorBoneName />
+            <DoorHandleBoneName />
+            <WindowId>INVALID</WindowId>
+            <VehicleSide>SIDE_LEFT</VehicleSide>
+            <AccessableSeats>
+                <Item ref="SEAT_EXTRA_LEFT_1" />
+            </AccessableSeats>
+            <VehicleExtraPointsInfo ref="NULL" />
+            <Flags />
+            <BlockJackReactionSides />
+        </Item>
+        <Item type="CVehicleEntryPointInfo">
+            <Name>ENTRY_POINT_HELI_REAR_RIGHT_MH60L</Name>
+            <DoorBoneName />
+            <SecondDoorBoneName />
+            <DoorHandleBoneName />
+            <WindowId>INVALID</WindowId>
+            <VehicleSide>SIDE_RIGHT</VehicleSide>
+            <AccessableSeats>
+                <Item ref="SEAT_EXTRA_RIGHT_1" />
+            </AccessableSeats>
+            <VehicleExtraPointsInfo ref="NULL" />
+            <Flags />
+            <BlockJackReactionSides />
+        </Item>
+    </VehicleEntryPointInfos>
+    <VehicleEntryPointAnimInfos />
+    <VehicleExplosionInfos />
+    <VehicleLayoutInfos>
+        <!-- mh60l -->
+        <Item type="CVehicleLayoutInfo">
+            <Name>LAYOUT_HELI_MH60L</Name>
+            <Seats>
+                <Item>
+                    <SeatInfo ref="SEAT_HELI_VALKYRIE_FRONT_LEFT" />
+                    <SeatAnimInfo ref="SEAT_ANIM_HELI_FRONT_LEFT" />
+                </Item>
+                <Item>
+                    <SeatInfo ref="SEAT_HELI_VALKYRIE_FRONT_RIGHT" />
+                    <SeatAnimInfo ref="SEAT_ANIM_HELI_VALKYRIE_FRONT_RIGHT" />
+                </Item>
+                <Item>
+                    <SeatInfo ref="SEAT_STANDARD_REAR_LEFT" />
+                    <SeatAnimInfo ref="SEAT_ANIM_HELI_REAR_LEFT" />
+                </Item>
+                <Item>
+                    <SeatInfo ref="SEAT_STANDARD_REAR_RIGHT" />
+                    <SeatAnimInfo ref="SEAT_ANIM_HELI_REAR_RIGHT" />
+                </Item>
+                <Item>
+                    <SeatInfo ref="SEAT_EXTRA_LEFT_1" />
+                    <SeatAnimInfo ref="SEAT_ANIM_HELI_REAR_RIGHT" />
+                </Item>
+                <Item>
+                    <SeatInfo ref="SEAT_EXTRA_RIGHT_1" />
+                    <SeatAnimInfo ref="SEAT_ANIM_HELI_REAR_LEFT" />
+                </Item>
+                <Item>
+                    <SeatInfo ref="SEAT_HELI_VALKYRIE_TURRET_LEFT" />
+                    <SeatAnimInfo ref="SEAT_ANIM_HELI_REAR_RIGHT" />
+                </Item>
+                <Item>
+                    <SeatInfo ref="SEAT_HELI_VALKYRIE_TURRET_RIGHT" />
+                    <SeatAnimInfo ref="SEAT_ANIM_HELI_FROGGER_REAR_RIGHT" />
+                </Item>
+            </Seats>
+            <EntryPoints>
+                <Item>
+                    <EntryPointInfo ref="ENTRY_POINT_HELI_VALKRYIE_FRONT_LEFT" />
+                    <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_HELI_ANNIHILATOR_FRONT_LEFT" />
+                </Item>
+                <Item>
+                    <EntryPointInfo ref="ENTRY_POINT_HELI_VALKRYIE_FRONT_RIGHT" />
+                    <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_HELI_VALKYRIE_FRONT_RIGHT" />
+                </Item>
+                <Item>
+                    <EntryPointInfo ref="ENTRY_POINT_HELI_REAR_LEFT" />
+                    <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_HELI_REAR_LEFT" />
+                </Item>
+                <Item>
+                    <EntryPointInfo ref="ENTRY_POINT_HELI_REAR_RIGHT" />
+                    <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_HELI_REAR_RIGHT" />
+                </Item>
+                <Item>
+                    <EntryPointInfo ref="ENTRY_POINT_HELI_REAR_LEFT_MH60L" />
+                    <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_HELI_REAR_RIGHT" />
+                </Item>
+                <Item>
+                    <EntryPointInfo ref="ENTRY_POINT_HELI_REAR_RIGHT_MH60L" />
+                    <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_HELI_REAR_LEFT" />
+                </Item>
+                <Item>
+                    <EntryPointInfo ref="ENTRY_POINT_HELI_VALKRYIE_TURRET_LEFT_FRONT" />
+                    <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_HELI_VALKYRIE_TURRET_LEFT_FRONT" />
+                </Item>
+                <Item>
+                    <EntryPointInfo ref="ENTRY_POINT_HELI_VALKRYIE_TURRET_RIGHT_FRONT" />
+                    <EntryPointAnimInfo ref="ENTRY_POINT_ANIM_HELI_VALKYRIE_TURRET_RIGHT_FRONT" />
+                </Item>
+            </EntryPoints>
+            <LayoutFlags>StreamAnims UseFinerAlignTolerance Use2DBodyBlend</LayoutFlags>
+            <BicycleInfo ref="NULL" />
+            <AnimRateSet ref="VALKYRIE_ANIM_RATE_SET" />
+            <HandsUpClipSetId>busted_vehicle_std</HandsUpClipSetId>
+            <SteeringWheelOffset x="0.000000" y="0.350000" z="0.320000" />
+        </Item>
+    </VehicleLayoutInfos>
+    <VehicleScenarioLayoutInfos />
+    <SeatOverrideAnimInfos />
+    <InVehicleOverrideInfos />
+    <FirstPersonDriveByLookAroundData />
+</CVehicleMetadataMgr>

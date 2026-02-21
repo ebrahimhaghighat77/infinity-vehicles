@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CVehicleModelInfoVariation>
+  <variationData>
+    <Item>
+      <modelName>RIOT3</modelName>
+      <colors>
+        <Item>
+          <indices content="char_array">
+            14
+            14
+            14
+            0
+            28
+            0
+          </indices>
+        </Item>
+        <Item>
+          <indices content="char_array">
+            154
+            0
+            0
+            0
+            154
+            0
+          </indices>
+        </Item>
+      </colors>
+      <kits>
+        <Item>714_jmbearcat_modkit</Item>
+      </kits>
+      <windowsWithExposedEdges />
+      <plateProbabilities>
+        <Probabilities>
+          <Item>
+            <Name>Police guv plate</Name>
+            <Value value="100" />
+          </Item>
+        </Probabilities>
+      </plateProbabilities>
+      <lightSettings value="199" />
+      <sirenSettings value="40080" />
+    </Item>
+  </variationData>
+</CVehicleModelInfoVariation>
