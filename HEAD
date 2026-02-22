@@ -1,0 +1,290 @@
+0000000000000000000000000000000000000000 957626a570f7a6a3e4d17ee8f343e81a6290a05f root <root@Infinity.(none)> 1730129920 +0000	clone: from https://github.com/infinity-tm/Infinity-Vehicles
+957626a570f7a6a3e4d17ee8f343e81a6290a05f 3e6c5ff48c89c92e309f9a292629b29aed1162c3 ebrahim haghighat <EbiHaghighat@Haghighat.(none)> 1730192975 +0330	pull: Fast-forward
+3e6c5ff48c89c92e309f9a292629b29aed1162c3 69e054a1d2f811a4fb80772e6068f7daf2461af8 ebrahimhaghighat77 <info@telepremium.ir> 1730195672 +0330	commit: test
+69e054a1d2f811a4fb80772e6068f7daf2461af8 3d8be8f7eb5b5dec0261050f98518ec1db683686 ebrahimhaghighat77 <info@telepremium.ir> 1730202886 +0330	commit: Feat: Cars Garage Name
+3d8be8f7eb5b5dec0261050f98518ec1db683686 523652ad5865694147cc2a80d5793dfdcdc348c7 ebrahimhaghighat77 <info@telepremium.ir> 1730277417 +0330	commit: feat: VIP Cars Garage Name
+523652ad5865694147cc2a80d5793dfdcdc348c7 add051aade1128ff40d9d5cc35df9a06ade9140f ebrahimhaghighat77 <info@telepremium.ir> 1730284690 +0330	pull: Fast-forward
+add051aade1128ff40d9d5cc35df9a06ade9140f bf370b9cfdee535ed4f2d9f52fd21baa0c9e90a8 ebrahimhaghighat77 <info@telepremium.ir> 1730377347 +0330	commit: feat: vehicles optimization Part 1
+bf370b9cfdee535ed4f2d9f52fd21baa0c9e90a8 cedaaca8d0916b0e50999f9b78ad1d1402e626b1 ebrahimhaghighat77 <info@telepremium.ir> 1730380473 +0330	commit: feat: vehicles optimization Part 1
+cedaaca8d0916b0e50999f9b78ad1d1402e626b1 8f8433cb3ac0b3ea89a931894a9ca432c403f00b ebrahimhaghighat77 <info@telepremium.ir> 1730387204 +0330	commit: feat: vehicles optimization Part 3
+8f8433cb3ac0b3ea89a931894a9ca432c403f00b f04435ee23135eaf28823189e8aed308d99710ec ebrahimhaghighat77 <info@telepremium.ir> 1730397594 +0330	commit: feat: vehicles optimization Part 4
+f04435ee23135eaf28823189e8aed308d99710ec 5f661dd68435d0bf72acad264172de6e1a6c4e62 ebrahimhaghighat77 <info@telepremium.ir> 1730400946 +0330	commit: feat: vehicles optimization Part 5
+5f661dd68435d0bf72acad264172de6e1a6c4e62 23b1d6a3a623b9e448d27c942a8ca7ac4af14f46 ebrahimhaghighat77 <info@telepremium.ir> 1730405497 +0330	commit: eat: vehicles optimization Part 6
+23b1d6a3a623b9e448d27c942a8ca7ac4af14f46 58d979b395c1f99c4e7f420329e754e8f20faa16 ebrahimhaghighat77 <info@telepremium.ir> 1730410761 +0330	commit: feat: vehicles optimization last part
+58d979b395c1f99c4e7f420329e754e8f20faa16 9978770834070454cf40c6a000d7a346003a058c ebrahimhaghighat77 <info@telepremium.ir> 1730653204 +0330	commit: feat: new handling
+9978770834070454cf40c6a000d7a346003a058c 9df1979551324a86ab030d1d75f84ff704b3b7f9 ebrahimhaghighat77 <info@telepremium.ir> 1730716102 +0330	commit: feat: oiltanker brake review
+9df1979551324a86ab030d1d75f84ff704b3b7f9 24e4908ea35013c55d0930532b102bda85b7bfb2 ebrahimhaghighat77 <info@telepremium.ir> 1730718575 +0330	commit: feat: ivpoltah handling improved
+24e4908ea35013c55d0930532b102bda85b7bfb2 5c717cdaf06a9a43cec7fe1845a9c564dce2a115 ebrahimhaghighat77 <info@telepremium.ir> 1730723865 +0330	commit: feat: taxia45 New taxi car
+5c717cdaf06a9a43cec7fe1845a9c564dce2a115 77d3b481ea3a1c415b708608da5011426dffaa2c ebrahimhaghighat77 <info@telepremium.ir> 1730725130 +0330	commit: feat: taxie500 New taxi car
+77d3b481ea3a1c415b708608da5011426dffaa2c d2bca5373d43340ade416797f9124d6a8b8ea641 ebrahimhaghighat77 <info@telepremium.ir> 1730726641 +0330	commit: feat: taxigs350 New taxi car
+d2bca5373d43340ade416797f9124d6a8b8ea641 55b5a1266f8fb6a678b4c1741646b98b325b7012 ebrahimhaghighat77 <info@telepremium.ir> 1730735540 +0330	commit: feat: New Taxi Cars Garage name
+55b5a1266f8fb6a678b4c1741646b98b325b7012 55fc426f053e4caff9188e3354b1da31ab473dc1 ebrahimhaghighat77 <info@telepremium.ir> 1730738831 +0330	commit: feat: taxia45 handling
+55fc426f053e4caff9188e3354b1da31ab473dc1 7aa4993b688c4cdc46887e71daafab3382e15e57 ebrahimhaghighat77 <info@telepremium.ir> 1730740072 +0330	commit: feat: taxie500 handling
+7aa4993b688c4cdc46887e71daafab3382e15e57 d3a844ef60d9212f99926043dfc5de6801ff8807 ebrahimhaghighat77 <info@telepremium.ir> 1730740756 +0330	commit: feat: taxigs350 handling
+d3a844ef60d9212f99926043dfc5de6801ff8807 3f7e5472c9ac136e9e8eb205b31341ad49cdd18c ebrahimhaghighat77 <info@telepremium.ir> 1730745863 +0330	commit: feat: dodgebseries Halloween event car
+3f7e5472c9ac136e9e8eb205b31341ad49cdd18c 90b40625b6df94833ad45be4f049c3a5d0ca6735 ebrahimhaghighat77 <info@telepremium.ir> 1730749275 +0330	commit: feat: Killer370zH Halloween event car
+90b40625b6df94833ad45be4f049c3a5d0ca6735 5cc8ac5382988dda1bd678cd16daa45abea2d855 ebrahimhaghighat77 <info@telepremium.ir> 1730750496 +0330	commit: feat: dodgebseries fix modkit
+5cc8ac5382988dda1bd678cd16daa45abea2d855 41891384a4c398509948ac826d7c5ee09d625ebe ebrahimhaghighat77 <info@telepremium.ir> 1730750530 +0330	commit: feat: Killer370zH handling
+41891384a4c398509948ac826d7c5ee09d625ebe 458b7a5955b7efbd165b51bbb8fede821d5b28af ebrahimhaghighat77 <info@telepremium.ir> 1730752358 +0330	commit: feat: Halloween cars garage name
+458b7a5955b7efbd165b51bbb8fede821d5b28af 21ddabfbcfee48a451ce709aa849a996371cee78 ebrahimhaghighat77 <info@telepremium.ir> 1730900727 +0330	commit: feat: fix taxi e63amg modkit
+21ddabfbcfee48a451ce709aa849a996371cee78 c989ea1ebb363dd5274b742605b1b899e4e530e3 ebrahimhaghighat77 <info@telepremium.ir> 1730902480 +0330	commit: feat: add bus modkit
+c989ea1ebb363dd5274b742605b1b899e4e530e3 2f7aff55e10c31b11eef4bffc9f24bdb9dd08104 ebrahimhaghighat77 <info@telepremium.ir> 1730902890 +0330	commit: feat: add taxi3 modkit
+2f7aff55e10c31b11eef4bffc9f24bdb9dd08104 793886cec77e9a3b4d20ab12197adac34f9820d2 ebrahimhaghighat77 <info@telepremium.ir> 1730916858 +0330	commit: feat: taxi e63amg new texture
+793886cec77e9a3b4d20ab12197adac34f9820d2 f39b8971c469bac94cd9c039f9186a3cc755f9d8 ebrahimhaghighat77 <info@telepremium.ir> 1730916979 +0330	commit: feat: ivtaxi new texture
+f39b8971c469bac94cd9c039f9186a3cc755f9d8 1c7cd808aef28930655d9b7d5b6de2a6a2327d41 ebrahimhaghighat77 <info@telepremium.ir> 1730917072 +0330	commit: feat: taxi new texture
+1c7cd808aef28930655d9b7d5b6de2a6a2327d41 2200265abd42659e128d942f6819f1e587415d88 ebrahimhaghighat77 <info@telepremium.ir> 1730917131 +0330	commit: feat: taxi2 new texture
+2200265abd42659e128d942f6819f1e587415d88 42e27d5ead885ed273afc77424c38d96910d7bd0 ebrahimhaghighat77 <info@telepremium.ir> 1730917191 +0330	commit: feat: taxi3 new texture
+42e27d5ead885ed273afc77424c38d96910d7bd0 665e7d6895db343318fe8de57d83e30a8d7506e9 ebrahimhaghighat77 <info@telepremium.ir> 1730917254 +0330	commit: feat: taxi4 new texture
+665e7d6895db343318fe8de57d83e30a8d7506e9 d22c593c029ef84d024bb46dc1f2080116e5342b ebrahimhaghighat77 <info@telepremium.ir> 1730918003 +0330	commit: feat: transmbv250 new texture
+d22c593c029ef84d024bb46dc1f2080116e5342b 0a87c7ab5bd6d198a4a029d84337ff548b8644ac ebrahimhaghighat77 <info@telepremium.ir> 1730925059 +0330	commit: feat: taxi5 new texture
+0a87c7ab5bd6d198a4a029d84337ff548b8644ac c7eb1493f132d91bba7dd55ef16e53c53a2585ab ebrahimhaghighat77 <info@telepremium.ir> 1731137926 +0330	commit: feat: mechanic dbx new car
+c7eb1493f132d91bba7dd55ef16e53c53a2585ab c70c106a8b1f81c4b2f555c1e200ff6e89cfbb2a ebrahimhaghighat77 <info@telepremium.ir> 1731138671 +0330	commit: feat: taxi a63amg fix texture
+c70c106a8b1f81c4b2f555c1e200ff6e89cfbb2a fa81676ea103e16ae1f478af2565c1e008216c0e ebrahimhaghighat77 <info@telepremium.ir> 1731420625 +0330	commit: feat: lc500 new handling
+fa81676ea103e16ae1f478af2565c1e008216c0e 313e38b7f3b13b5c529cd1eb8c9dd553063f894e ebrahimhaghighat77 <info@telepremium.ir> 1731425241 +0330	commit: feat: mechanic dbx car fix seats
+313e38b7f3b13b5c529cd1eb8c9dd553063f894e f43243ff7fa847b97be7f92a3de0cd0f23cd5fee ebrahimhaghighat77 <info@telepremium.ir> 1731425259 +0330	commit: feat: mechanic dbx car fix texture
+f43243ff7fa847b97be7f92a3de0cd0f23cd5fee 568a5a986be675ef3a4c39539da6b7aaa0c07e51 ebrahimhaghighat77 <info@telepremium.ir> 1731427720 +0330	commit: feat: taxigs350 handling improved
+568a5a986be675ef3a4c39539da6b7aaa0c07e51 050ac407aa6e39ec51da824ebf5461338ca35682 ebrahimhaghighat77 <info@telepremium.ir> 1731429581 +0330	commit: feat: taxi4 handling improved
+050ac407aa6e39ec51da824ebf5461338ca35682 4b9fc6dfb2448abc4f54ead03de3a0ef7a58e623 ebrahimhaghighat77 <info@telepremium.ir> 1731508233 +0330	commit: feat: medic 18TahoeAMR Redesign
+4b9fc6dfb2448abc4f54ead03de3a0ef7a58e623 554400c10b59d61dab51717ac8d532622e82165a ebrahimhaghighat77 <info@telepremium.ir> 1731508356 +0330	commit: feat: medic 22FPIUAMR Redesign
+554400c10b59d61dab51717ac8d532622e82165a b1c2e8d3929f89f5ad28d80fbf18e0458da0f1e0 ebrahimhaghighat77 <info@telepremium.ir> 1731508384 +0330	commit: medic ambunalce1 Redesign
+b1c2e8d3929f89f5ad28d80fbf18e0458da0f1e0 2a2ba229d7f10f9219ec0be5b42178f6d48ea51c ebrahimhaghighat77 <info@telepremium.ir> 1731508407 +0330	commit: feat: Medic emsa Redesign
+2a2ba229d7f10f9219ec0be5b42178f6d48ea51c e902bd954aae7ce7efc1aa2c1ae10d91fc40bd27 ebrahimhaghighat77 <info@telepremium.ir> 1731508474 +0330	commit: feat: Medic fd2 Redesign
+e902bd954aae7ce7efc1aa2c1ae10d91fc40bd27 311952aaebc85f494e1b70be39ce4ddd895571e9 ebrahimhaghighat77 <info@telepremium.ir> 1731508648 +0330	commit: feat: Medic polgs350 Redesign
+311952aaebc85f494e1b70be39ce4ddd895571e9 3363eacb8233686e50cc2d9b5a97be9d5c40c1d0 ebrahimhaghighat77 <info@telepremium.ir> 1731508666 +0330	commit: feat: Medic zendrack Redesign
+3363eacb8233686e50cc2d9b5a97be9d5c40c1d0 f8bddb9085576eb6725c3ebc7391d708cda41b30 ebrahimhaghighat77 <info@telepremium.ir> 1731508729 +0330	commit: feat: Medic ivpolmm Redesign
+f8bddb9085576eb6725c3ebc7391d708cda41b30 ba53938fad77b724b56f10e7a52ecb35f5f2ea27 ebrahimhaghighat77 <info@telepremium.ir> 1731508744 +0330	commit: feat: Medic legacy7 Redesign
+ba53938fad77b724b56f10e7a52ecb35f5f2ea27 799fb24cfaf40bd18636a6c148561b889534a09c ebrahimhaghighat77 <info@telepremium.ir> 1731516307 +0330	commit: feat: Medic car last change
+799fb24cfaf40bd18636a6c148561b889534a09c ca8a43ca24ca83ea03bb8137b1df1bf011859716 ebrahimhaghighat77 <info@telepremium.ir> 1731622997 +0330	commit: feat: tank rezvani new livery
+ca8a43ca24ca83ea03bb8137b1df1bf011859716 41e163f088a00fa93574bfb5d0c107f2781f0572 ebrahimhaghighat77 <info@telepremium.ir> 1731659056 +0330	pull: Fast-forward
+41e163f088a00fa93574bfb5d0c107f2781f0572 8946d421206602c7b5e56493aa20793debdafdeb ebrahimhaghighat77 <info@telepremium.ir> 1731679269 +0330	commit: feat: GolfR18 fix body damage
+8946d421206602c7b5e56493aa20793debdafdeb a453add6f4b4689ed1fa57279c01d7e57bf51fac ebrahimhaghighat77 <info@telepremium.ir> 1731679503 +0330	commit: feat: add mechanic dbx car garage name
+a453add6f4b4689ed1fa57279c01d7e57bf51fac 3a264a8f30c8050df648c5649c866b8495f42566 ebrahimhaghighat77 <info@telepremium.ir> 1731708853 +0330	commit: feat: tank rezvani fix texture
+3a264a8f30c8050df648c5649c866b8495f42566 e4a9987e46cd62bc4e32c88e8b6587f9ae4e2f41 ebrahimhaghighat77 <info@telepremium.ir> 1731953229 +0330	commit: feat: m3e46 new handling
+e4a9987e46cd62bc4e32c88e8b6587f9ae4e2f41 f21973050c3fc020c780c14b1f45f300f7522a11 ebrahimhaghighat77 <info@telepremium.ir> 1732489559 +0330	commit: feat: Honda N1 fix modkit
+f21973050c3fc020c780c14b1f45f300f7522a11 ede334e89a513464bab91b4dc274e9074a2abb66 ebrahimhaghighat77 <info@telepremium.ir> 1732541540 +0330	commit: feat: new car cx75
+ede334e89a513464bab91b4dc274e9074a2abb66 3214e9b0884bec526e200bbd7d46b8bfbca9a24d ebrahimhaghighat77 <info@telepremium.ir> 1732541573 +0330	commit: feat: new car honda nsx nc1
+3214e9b0884bec526e200bbd7d46b8bfbca9a24d 0b973fe632ea63935cc57ba33543b9868c700d19 ebrahimhaghighat77 <info@telepremium.ir> 1732541668 +0330	commit: feat: new cars garage name
+0b973fe632ea63935cc57ba33543b9868c700d19 dd7eb6f62251e9b4599cfb90ab570a01438d7ab3 ebrahimhaghighat77 <info@telepremium.ir> 1732669241 +0330	commit: feat: MANSORY P9LM Engin Sound
+dd7eb6f62251e9b4599cfb90ab570a01438d7ab3 4a09e30b66a4f1429c57ecf79d7ee90dc379eb0b ebrahimhaghighat77 <info@telepremium.ir> 1732669390 +0330	commit: feat: Ford GT Engine Sound
+4a09e30b66a4f1429c57ecf79d7ee90dc379eb0b 3ddc0e6c8e1f13915c5dbf1c38538ce8c00abba4 ebrahimhaghighat77 <info@telepremium.ir> 1732669982 +0330	commit: feat: add car sound config
+3ddc0e6c8e1f13915c5dbf1c38538ce8c00abba4 15f59d1e09ce9ce781a576a011330b6399eb262e ebrahimhaghighat77 <info@telepremium.ir> 1732670308 +0330	commit: feat: new 206 car
+15f59d1e09ce9ce781a576a011330b6399eb262e 896a7432a117984a215ad77e14ca69e22c5ef9c0 ebrahimhaghighat77 <info@telepremium.ir> 1732670498 +0330	commit: feat: new parselx car
+896a7432a117984a215ad77e14ca69e22c5ef9c0 17e72c7b806b71ba51b41acc104aca790dfae80f ebrahimhaghighat77 <info@telepremium.ir> 1732670674 +0330	commit: feat: new 405glx car
+17e72c7b806b71ba51b41acc104aca790dfae80f 7aaa4de13e0a3d3836aa13f68849b2cc4183a5a4 ebrahimhaghighat77 <info@telepremium.ir> 1732670824 +0330	commit: feat: New Car Garage
+7aaa4de13e0a3d3836aa13f68849b2cc4183a5a4 33dd7624416841a7af5e2dc1cfa01164ed140912 ebrahimhaghighat77 <info@telepremium.ir> 1732747063 +0330	commit: feat: fordbatman new handling
+33dd7624416841a7af5e2dc1cfa01164ed140912 d458e23c481f90b408e7bfed9020925cf0e5de02 ebrahimhaghighat77 <info@telepremium.ir> 1732753513 +0330	commit: feat: New Benz SLR Mansory
+d458e23c481f90b408e7bfed9020925cf0e5de02 6f188ec20d254a0094f8f958008ea55965406c4c ebrahimhaghighat77 <info@telepremium.ir> 1732763017 +0330	commit: feat: new car taxipeugeot
+6f188ec20d254a0094f8f958008ea55965406c4c 309a6240e898af01639b8b613e7e0f5777c5f80d ebrahimhaghighat77 <info@telepremium.ir> 1732920786 +0330	commit: feat: Koenigsegg Gemera fix seat
+309a6240e898af01639b8b613e7e0f5777c5f80d b94a9adde6572d448476dbe2a16b36fddc56ee3f ebrahimhaghighat77 <info@telepremium.ir> 1732969508 +0330	commit: feat: More change on cars
+b94a9adde6572d448476dbe2a16b36fddc56ee3f f0f564d6f8cb31331b40fc58c44dafe11c9f6458 ebrahimhaghighat77 <info@telepremium.ir> 1733048843 +0330	commit: feat: fix more cars
+f0f564d6f8cb31331b40fc58c44dafe11c9f6458 623d66547f8ea8acf8ef368ab308b3ee925f958f ebrahimhaghighat77 <info@telepremium.ir> 1733274849 +0330	commit: feat: New Car Garage name
+623d66547f8ea8acf8ef368ab308b3ee925f958f 7ece40ce95dbe1869cd66f6e745b09d6caa6f79f ebrahimhaghighat77 <info@telepremium.ir> 1733275037 +0330	commit: feat: new Maserati Levante car
+7ece40ce95dbe1869cd66f6e745b09d6caa6f79f b8f67dbd53de75fece288176e06fe1c2e26b0e39 ebrahimhaghighat77 <info@telepremium.ir> 1733275101 +0330	commit: feat: new Benz CLS car
+b8f67dbd53de75fece288176e06fe1c2e26b0e39 aeb95520d775d86da7515ccf492fc00149610c15 ebrahimhaghighat77 <info@telepremium.ir> 1733275197 +0330	commit: feat: new sound cars
+aeb95520d775d86da7515ccf492fc00149610c15 9e6eb7a675116acfdedfb673b00bcb18ac7f2962 ebrahimhaghighat77 <info@telepremium.ir> 1733275296 +0330	commit: feat: Mechanic f350 handling improved
+9e6eb7a675116acfdedfb673b00bcb18ac7f2962 03d6f2a055a2aa05ea09108d941b1ba0c645668b ebrahimhaghighat77 <info@telepremium.ir> 1733325223 +0330	commit: feat: fix amgone texture
+03d6f2a055a2aa05ea09108d941b1ba0c645668b d38e502a180e7c65d8bf13303b2cdcb3bbeeacac ebrahimhaghighat77 <info@telepremium.ir> 1733325304 +0330	commit: feat: amgone handling improved
+d38e502a180e7c65d8bf13303b2cdcb3bbeeacac 9b1a1edfae696cf59e8222826c6b730470486e1b ebrahimhaghighat77 <info@telepremium.ir> 1733744717 +0330	commit: feat: add ivjourney modkit
+9b1a1edfae696cf59e8222826c6b730470486e1b b165c3a6b48da92c527dd917e2543bf24f026741 ebrahimhaghighat77 <info@telepremium.ir> 1733866628 +0330	commit: feat: new motor addon deamon
+b165c3a6b48da92c527dd917e2543bf24f026741 5c15b24da49d25a84fea3a2c62a4c3c4051f6610 ebrahimhaghighat77 <info@telepremium.ir> 1733866647 +0330	commit: feat: new motor runner
+5c15b24da49d25a84fea3a2c62a4c3c4051f6610 e6ed8b398f83de911ef92e68a43f43776f3628e9 ebrahimhaghighat77 <info@telepremium.ir> 1733985570 +0330	commit: feat: infdaemon new handling
+e6ed8b398f83de911ef92e68a43f43776f3628e9 fc2f891ecb731032f2bebb77cad733a97033b574 ebrahimhaghighat77 <info@telepremium.ir> 1733985582 +0330	commit: feat: runner new handling
+fc2f891ecb731032f2bebb77cad733a97033b574 21aa89d336e3149cd7ee49701b7b08a3814c7a57 ebrahimhaghighat77 <info@telepremium.ir> 1733985616 +0330	commit: feat: new cars garage name
+21aa89d336e3149cd7ee49701b7b08a3814c7a57 46037859decdbf708a7f24add7d6d90701af2265 ebrahimhaghighat77 <info@telepremium.ir> 1734375094 +0330	commit: feat: new change
+46037859decdbf708a7f24add7d6d90701af2265 0f34f66fd7a505148e94dd5c74963d3f7c4a3425 ebrahimhaghighat77 <info@telepremium.ir> 1734375274 +0330	commit: feat: mlnovitec change dirt level
+0f34f66fd7a505148e94dd5c74963d3f7c4a3425 636fb35c3442acdb3a960f956da3e97e02c347a1 ebrahimhaghighat77 <info@telepremium.ir> 1734504446 +0330	pull: Fast-forward
+636fb35c3442acdb3a960f956da3e97e02c347a1 f162d6207eb2918c7f3fee8d174e1e9e8876a899 ebrahimhaghighat77 <info@telepremium.ir> 1734894383 +0330	pull: Fast-forward
+f162d6207eb2918c7f3fee8d174e1e9e8876a899 f580107e79f39aa9bf9eb079eaf5743b0892d349 ebrahimhaghighat77 <info@telepremium.ir> 1734986368 +0330	commit: feat : add new car Brabus B50
+f580107e79f39aa9bf9eb079eaf5743b0892d349 53d3a889b50ce98554e2388aa557b678834f73ab ebrahimhaghighat77 <info@telepremium.ir> 1734986416 +0330	commit: feat: Brabus B50 new handling
+53d3a889b50ce98554e2388aa557b678834f73ab 448c8bbad1c6b39350384aeb3ec16d45db5df7f6 ebrahimhaghighat77 <info@telepremium.ir> 1734986462 +0330	commit: feat: Ferrari 488 Pista new handling
+448c8bbad1c6b39350384aeb3ec16d45db5df7f6 9afbb8ccf9eebfa505ecce7c3535023f989f79cf ebrahimhaghighat77 <info@telepremium.ir> 1734986496 +0330	commit: feat: new car garage name
+9afbb8ccf9eebfa505ecce7c3535023f989f79cf 2cca51ff7be1e533f926e718ef3255ba873e43c4 ebrahimhaghighat77 <info@telepremium.ir> 1734987758 +0330	commit: feat: optimize more car
+2cca51ff7be1e533f926e718ef3255ba873e43c4 4c842e8638776c493b176b1fe9ec14f00ea727f6 ebrahimhaghighat77 <info@telepremium.ir> 1735143994 +0330	commit: feat: w223b50 fix texture
+4c842e8638776c493b176b1fe9ec14f00ea727f6 663c03d853ab098207e5fcb1798d2e8e02a2d8b3 ebrahimhaghighat77 <info@telepremium.ir> 1735144029 +0330	commit: feat: w223b50 fix seat
+663c03d853ab098207e5fcb1798d2e8e02a2d8b3 701fdaaa57e4af0e2aeeed3e0bce58bd980fb5e0 ebrahimhaghighat77 <info@telepremium.ir> 1735306794 +0330	commit: feat: medic new car fordgt
+701fdaaa57e4af0e2aeeed3e0bce58bd980fb5e0 1075d3c599b1753e423d308d250732838e91fa7d ebrahimhaghighat77 <info@telepremium.ir> 1735306838 +0330	commit: feat: viperleo new handling
+1075d3c599b1753e423d308d250732838e91fa7d c0ea0f743f20062850f17199a46e48306b02c72d ebrahimhaghighat77 <info@telepremium.ir> 1735306854 +0330	commit: feat: viperleo new sound
+c0ea0f743f20062850f17199a46e48306b02c72d 0af6fae926c465dee7c6c4b837f6f8994b070e49 ebrahimhaghighat77 <info@telepremium.ir> 1735306880 +0330	commit: feat: viperleo fix modkit
+0af6fae926c465dee7c6c4b837f6f8994b070e49 e0e7f8a0339ad489909b88a6dde0cb5e4a2bf2b0 ebrahimhaghighat77 <info@telepremium.ir> 1735368388 +0330	commit: feat: Mechanic new car
+e0e7f8a0339ad489909b88a6dde0cb5e4a2bf2b0 f9c8fecd378980df3153055905d5e19dadcf9f9a ebrahimhaghighat77 <info@telepremium.ir> 1735368434 +0330	commit: feat: Mechanic 21f250 texture redesign
+f9c8fecd378980df3153055905d5e19dadcf9f9a 08dc51fd897b9c17d916b3e4c0f928916f6fc3ba ebrahimhaghighat77 <info@telepremium.ir> 1735368449 +0330	commit: feat: Mechanic 21tahoe texture redesign
+08dc51fd897b9c17d916b3e4c0f928916f6fc3ba 1b0e6a40575d214c14c8a8c60da989dfdb7a5b0a ebrahimhaghighat77 <info@telepremium.ir> 1735368459 +0330	commit: feat: Mechanic dbx texture redesign
+1b0e6a40575d214c14c8a8c60da989dfdb7a5b0a 5eedf17828a828ad76663a2e6582272092d7c142 ebrahimhaghighat77 <info@telepremium.ir> 1735368480 +0330	commit: feat: Mechanic flatbedm2 texture redesign
+5eedf17828a828ad76663a2e6582272092d7c142 4112604a8a15052a1d0ed7aa16417282782fe09f ebrahimhaghighat77 <info@telepremium.ir> 1735368488 +0330	commit: feat: Mechanic mcford texture redesign
+4112604a8a15052a1d0ed7aa16417282782fe09f 6a431a003562f6d8b8f0e62cf612ab1d6f8dad97 ebrahimhaghighat77 <info@telepremium.ir> 1735466806 +0330	commit: feat: add new car garage name
+6a431a003562f6d8b8f0e62cf612ab1d6f8dad97 4f839a118922cbcf52f95764df7326edca785fe2 ebrahimhaghighat77 <info@telepremium.ir> 1735472390 +0330	commit: feat: 20charger improved handling
+4f839a118922cbcf52f95764df7326edca785fe2 95b267599ca7317bf1f1509d9eeb2cfc0abe5ca1 ebrahimhaghighat77 <info@telepremium.ir> 1735472409 +0330	commit: feat: mechanic GMC new handling
+95b267599ca7317bf1f1509d9eeb2cfc0abe5ca1 01e371f171c9937a60a470511fe8e74cd7cfd6a2 ebrahimhaghighat77 <info@telepremium.ir> 1735490295 +0330	pull: Fast-forward
+01e371f171c9937a60a470511fe8e74cd7cfd6a2 c8c646a9efe2b5f14ec0aa5e435e069744db0236 ebrahimhaghighat77 <info@telepremium.ir> 1735570208 +0330	commit: feat: peptos new motor
+c8c646a9efe2b5f14ec0aa5e435e069744db0236 915789e2274f3fb6caf2f855cc956a0a4ee6b9e9 ebrahimhaghighat77 <info@telepremium.ir> 1735572141 +0330	commit: feat: SRT cars fix modkit
+915789e2274f3fb6caf2f855cc956a0a4ee6b9e9 3c4039269c1e67cc04cc8aae07055285eebbe231 ebrahimhaghighat77 <info@telepremium.ir> 1735838260 +0330	commit: feat: mechanic flatbed fix texture
+3c4039269c1e67cc04cc8aae07055285eebbe231 50cda4dbaa33f77ca940672e2185d38c988a0b30 ebrahimhaghighat77 <info@telepremium.ir> 1735838295 +0330	commit: feat: mechanic ford raptor fix texture
+50cda4dbaa33f77ca940672e2185d38c988a0b30 b5ea68cb7e44e0fce1c9983848e31ada3f587566 ebrahimhaghighat77 <info@telepremium.ir> 1736080208 +0330	commit: feat: new car garage name
+b5ea68cb7e44e0fce1c9983848e31ada3f587566 e9c3fae26b48375cb192a8ca571dd3dc9f0a08b0 ebrahimhaghighat77 <info@telepremium.ir> 1736080238 +0330	commit: feat: new swat cars
+e9c3fae26b48375cb192a8ca571dd3dc9f0a08b0 fcf6245ff18c58b91c24ef8ebe7561425e114c70 ebrahimhaghighat77 <info@telepremium.ir> 1736080267 +0330	commit: feat: new mechanic car
+fcf6245ff18c58b91c24ef8ebe7561425e114c70 91ef329f96c027e7c09c0e50f76c395340561632 ebrahimhaghighat77 <info@telepremium.ir> 1736080286 +0330	commit: feat: add more addon car
+91ef329f96c027e7c09c0e50f76c395340561632 b30cc800b1a88f1424c8b4d944354a5c20f5338f ebrahimhaghighat77 <info@telepremium.ir> 1736104826 +0330	commit: feat: topcar720 fix modkit
+b30cc800b1a88f1424c8b4d944354a5c20f5338f 967a113cf1b41ebc0599b432164e873c5e4e9172 ebrahimhaghighat77 <info@telepremium.ir> 1736104854 +0330	commit: feat: swatvan fix modkit
+967a113cf1b41ebc0599b432164e873c5e4e9172 59618e2552831e576d32950510642b0d52c12c8e ebrahimhaghighat77 <info@telepremium.ir> 1736104880 +0330	commit: feat: Rescue car fix modkit
+59618e2552831e576d32950510642b0d52c12c8e b52af9e318381d224a3cffb78e2cd9d277e4fe79 ebrahimhaghighat77 <info@telepremium.ir> 1736204493 +0330	commit: feat: new police car garage name
+b52af9e318381d224a3cffb78e2cd9d277e4fe79 2eb3bdc1fe83f3e92cd3ac46d406dd80344d9585 ebrahimhaghighat77 <info@telepremium.ir> 1736204520 +0330	commit: feat: add police Mustang 2025
+2eb3bdc1fe83f3e92cd3ac46d406dd80344d9585 8a8fb4d1b21364d5b62620a596f86b16544ce638 ebrahimhaghighat77 <info@telepremium.ir> 1736339264 +0330	pull: Fast-forward
+8a8fb4d1b21364d5b62620a596f86b16544ce638 94dc709e6cd4b5ca1f43ac3cb8bbc3adfd858522 ebrahimhaghighat77 <info@telepremium.ir> 1736349368 +0330	commit: feat: 350eod new handling
+94dc709e6cd4b5ca1f43ac3cb8bbc3adfd858522 6e8aec696e7037e212124ed4a866925150551f5a ebrahimhaghighat77 <info@telepremium.ir> 1736349403 +0330	commit: feat: swatvan new handling
+6e8aec696e7037e212124ed4a866925150551f5a 01740a828e1466809c593e2c6f660456b9d388cf ebrahimhaghighat77 <info@telepremium.ir> 1736349424 +0330	commit: feat: 22bmw new handling
+01740a828e1466809c593e2c6f660456b9d388cf 86183e019e48f417a7329926a4e1a7d730cb3c68 ebrahimhaghighat77 <info@telepremium.ir> 1736349444 +0330	commit: feat: m5g60w new handling
+86183e019e48f417a7329926a4e1a7d730cb3c68 c5c0fb80bc3c48b4a188a3ff09dcc7180edf6127 ebrahimhaghighat77 <info@telepremium.ir> 1736349473 +0330	commit: feat: rezvani tank handling improved
+c5c0fb80bc3c48b4a188a3ff09dcc7180edf6127 0dc67eeebc930521052aec49ecd71d28317cb855 ebrahimhaghighat77 <info@telepremium.ir> 1736349486 +0330	commit: feat: peptos_h2 new handling
+0dc67eeebc930521052aec49ecd71d28317cb855 240b409c00e82016c35a0a3f90575a98e56410db ebrahimhaghighat77 <info@telepremium.ir> 1736349498 +0330	commit: feat: topcar720 new handling
+240b409c00e82016c35a0a3f90575a98e56410db c0b1cb7691514ce6f10f59b7f74b81a2139c8b70 ebrahimhaghighat77 <info@telepremium.ir> 1736366018 +0330	commit: feat: add new police 69charger
+c0b1cb7691514ce6f10f59b7f74b81a2139c8b70 56aac3a9b295dc98d855ab020810288a04a4084e ebrahimhaghighat77 <info@telepremium.ir> 1736366315 +0330	commit: feat: add 69charger garage name
+56aac3a9b295dc98d855ab020810288a04a4084e 861a1e1d634bb8af31f048e290fdb95ba0300fc6 ebrahimhaghighat77 <info@telepremium.ir> 1736366343 +0330	commit: feat: add normal 69charger
+861a1e1d634bb8af31f048e290fdb95ba0300fc6 009e4c7e399221b31628b569afe5930d63af3977 ebrahimhaghighat77 <info@telepremium.ir> 1736373780 +0330	commit: feat: 69charger optimize texture
+009e4c7e399221b31628b569afe5930d63af3977 da6c9d9cd5c28b5e828af06a07373eb2979c21f0 ebrahimhaghighat77 <info@telepremium.ir> 1736373802 +0330	commit: feat: police 69charger optimize texture
+da6c9d9cd5c28b5e828af06a07373eb2979c21f0 171cb773faa482b0b6807fb735eda06da28cc24a ebrahimhaghighat77 <info@telepremium.ir> 1736374697 +0330	commit: feat: police 69charger addon sound
+171cb773faa482b0b6807fb735eda06da28cc24a a8b7015b9aa0bf2ed870c36e312ebf9b706ce66b ebrahimhaghighat77 <info@telepremium.ir> 1736546914 +0330	commit: feat: mustang 2025 new handling
+a8b7015b9aa0bf2ed870c36e312ebf9b706ce66b 6edbcce8b233a453c0d8729202ada997c47cfaf7 ebrahimhaghighat77 <info@telepremium.ir> 1736607137 +0330	commit: feat: optimize bmw christmas event car
+6edbcce8b233a453c0d8729202ada997c47cfaf7 ce1dbdc183072c463200f7bad813b9c8910ba396 ebrahimhaghighat77 <info@telepremium.ir> 1736607931 +0330	commit: feat: optimize mclaren christmas event car
+ce1dbdc183072c463200f7bad813b9c8910ba396 893b1451f97716ea126cd698d80e5bc2ed474bba ebrahimhaghighat77 <info@telepremium.ir> 1736609705 +0330	commit: feat: add peptos_h2 addon sound
+893b1451f97716ea126cd698d80e5bc2ed474bba 7e359e5ad19c5975d4b3e5f0007a605aabddfa02 ebrahimhaghighat77 <info@telepremium.ir> 1736696284 +0330	commit: feat: viperleo handling improved
+7e359e5ad19c5975d4b3e5f0007a605aabddfa02 ce02782c8ef2613f012434d04d8b781761b740f6 ebrahimhaghighat77 <info@telepremium.ir> 1736696356 +0330	commit: feat: bmwm4 event car handling fix
+ce02782c8ef2613f012434d04d8b781761b740f6 459f094fff6dc3f31b5d0f9a5297ee66bcc98daf ebrahimhaghighat77 <info@telepremium.ir> 1736696416 +0330	commit: feat: mustang 2024 new handling
+459f094fff6dc3f31b5d0f9a5297ee66bcc98daf 14e2486b196292a0015ad93e210fc7ed1bcb45f6 ebrahimhaghighat77 <info@telepremium.ir> 1736696425 +0330	pull --tags origin main: Merge made by the 'ort' strategy.
+14e2486b196292a0015ad93e210fc7ed1bcb45f6 55d968a350f49ef3ad6aaf690c28ed00b4070714 ebrahimhaghighat77 <info@telepremium.ir> 1736898226 +0330	commit: feat: lc500 new livery
+55d968a350f49ef3ad6aaf690c28ed00b4070714 4615c32a0b06affab2360d8268e67c18959494c6 ebrahimhaghighat77 <info@telepremium.ir> 1736984877 +0330	commit: feat: lc500 fix livery
+4615c32a0b06affab2360d8268e67c18959494c6 acf6e75ac189294681519f29998ea59e88c5046d ebrahimhaghighat77 <info@telepremium.ir> 1737034799 +0330	commit: feat: challenger 2023 new car
+acf6e75ac189294681519f29998ea59e88c5046d 8d3b60a7ed0482d1dbf4601b9018e5632c12016e ebrahimhaghighat77 <info@telepremium.ir> 1737034839 +0330	commit: feat: charger 2023 new car
+8d3b60a7ed0482d1dbf4601b9018e5632c12016e 8afecfd475f9e4bbdfb8ba1a42e38c9dc8f9fc8a ebrahimhaghighat77 <info@telepremium.ir> 1737035052 +0330	commit: feat: Lamborghini Temerario new car
+8afecfd475f9e4bbdfb8ba1a42e38c9dc8f9fc8a 87276d46ca03efd906a744927908a9909cca6070 ebrahimhaghighat77 <info@telepremium.ir> 1737035388 +0330	commit: feat: New car garage name
+87276d46ca03efd906a744927908a9909cca6070 cc7046ab69a3676fd9fc6dd72204c26122e8abdc ebrahimhaghighat77 <info@telepremium.ir> 1737054331 +0330	commit: feat: Mustang 2024 police and sheriff livery
+cc7046ab69a3676fd9fc6dd72204c26122e8abdc 873aec1f4134fd2b19bfb52231d7b10fa58466cd ebrahimhaghighat77 <info@telepremium.ir> 1737054382 +0330	commit: feat: Mustang 2024 police new handling
+873aec1f4134fd2b19bfb52231d7b10fa58466cd 5dec75b1e331fc263273a965914e9abdfc7b881f ebrahimhaghighat77 <info@telepremium.ir> 1737409278 +0330	commit: feat: Audi Q820 fix engine block
+5dec75b1e331fc263273a965914e9abdfc7b881f c05387d9e9d580b5c0ced25a6bdc2dd362b85f5c ebrahimhaghighat77 <info@telepremium.ir> 1737541956 +0330	commit: feat: 69charger police new handling
+c05387d9e9d580b5c0ced25a6bdc2dd362b85f5c 2740bf4b35b35870cb317910bf1afa9897c1bc95 ebrahimhaghighat77 <info@telepremium.ir> 1737545167 +0330	commit: feat: fix more handling
+2740bf4b35b35870cb317910bf1afa9897c1bc95 1cf50eb09d751f7f4c1271a8d4ecf3db1309e828 ebrahimhaghighat77 <info@telepremium.ir> 1737547145 +0330	commit: feat: new car bmw i7
+1cf50eb09d751f7f4c1271a8d4ecf3db1309e828 2c283322bdc76a9adabac6e7cd03fda7ae431f84 ebrahimhaghighat77 <info@telepremium.ir> 1737547189 +0330	commit: feat: new car Bugatti Tourbillon 2026
+2c283322bdc76a9adabac6e7cd03fda7ae431f84 6813934d62b10ef2d3c4e04a671ff24c784664c2 ebrahimhaghighat77 <info@telepremium.ir> 1737547369 +0330	commit: feat: new car Ferrari Purosangue Beast
+6813934d62b10ef2d3c4e04a671ff24c784664c2 38e23298f8cc1c0185cba928e45702ffd875c6bb ebrahimhaghighat77 <info@telepremium.ir> 1737547631 +0330	commit: feat: new car Audi Venuum
+38e23298f8cc1c0185cba928e45702ffd875c6bb abcdef8358ef646b01aea4fa2a9423fe8b94e156 ebrahimhaghighat77 <info@telepremium.ir> 1737547749 +0330	commit: feat: new car Rezvani Hercules 6x6
+abcdef8358ef646b01aea4fa2a9423fe8b94e156 6ef7f39bfb65963ffded046491fa27f6ca066e5c ebrahimhaghighat77 <info@telepremium.ir> 1737558285 +0330	commit: feat: add new car garage name
+6ef7f39bfb65963ffded046491fa27f6ca066e5c 52818feb37ead698b2bd7f4b3fbbd82c992ca036 ebrahimhaghighat77 <info@telepremium.ir> 1737575263 +0330	pull --tags origin main: Fast-forward
+52818feb37ead698b2bd7f4b3fbbd82c992ca036 333163361cbe86852e8e74944ad3e49619fd0efe ebrahimhaghighat77 <info@telepremium.ir> 1737578767 +0330	commit: feat: new car Sorento 2019
+333163361cbe86852e8e74944ad3e49619fd0efe c058cef3828a1caf828ab4cbbaf1a7bdb837389e ebrahimhaghighat77 <info@telepremium.ir> 1737640488 +0330	commit: feat: remove useless car
+c058cef3828a1caf828ab4cbbaf1a7bdb837389e 02bea907174efe0f089c00d8c5cd23f8e3d03edb ebrahimhaghighat77 <info@telepremium.ir> 1737647507 +0330	commit: feat: remove more useless car
+02bea907174efe0f089c00d8c5cd23f8e3d03edb ffbd102931faee603caf7acdad67333fcc1ddb13 ebrahimhaghighat77 <info@telepremium.ir> 1737653078 +0330	commit: feat: change more
+ffbd102931faee603caf7acdad67333fcc1ddb13 606fa5e073bc436c813824ca1319b17e66f700bc ebrahimhaghighat77 <info@telepremium.ir> 1737724918 +0330	commit: feat: Sorento 2019 new handling
+606fa5e073bc436c813824ca1319b17e66f700bc f11b24cd11f0f0da95311ecc635a5a6e6d565c1a ebrahimhaghighat77 <info@telepremium.ir> 1737812828 +0330	commit: feat: police 69charger fix handling
+f11b24cd11f0f0da95311ecc635a5a6e6d565c1a d4a80039626031b329f151ba23ccea9ba88ed939 ebrahimhaghighat77 <info@telepremium.ir> 1737825318 +0330	commit: feat: optimize some car texture
+d4a80039626031b329f151ba23ccea9ba88ed939 668dceaff318929bc911cb73a3a3b022e04b4d4f ebrahimhaghighat77 <info@telepremium.ir> 1737833512 +0330	commit: feat: optimize some more car texture
+668dceaff318929bc911cb73a3a3b022e04b4d4f 665143c8024bb080a4b92273a53ebedfeac0e733 ebrahimhaghighat77 <info@telepremium.ir> 1737915389 +0330	commit: feat: optimize some more car texture
+665143c8024bb080a4b92273a53ebedfeac0e733 29e6fcee26819c62179cd2c2817724c8579e8abf ebrahimhaghighat77 <info@telepremium.ir> 1737987867 +0330	commit: feat: optimize some more car texture
+29e6fcee26819c62179cd2c2817724c8579e8abf 5d55b542d9ececba748e52a970140773a06e230c ebrahimhaghighat77 <info@telepremium.ir> 1737999861 +0330	commit: feat: optimize some more car texture
+5d55b542d9ececba748e52a970140773a06e230c b1f82423ede47bd9047c122256f04c3a25c31021 ebrahimhaghighat77 <info@telepremium.ir> 1738090812 +0330	commit: feat: optimize some more car texture
+b1f82423ede47bd9047c122256f04c3a25c31021 39cfafd576952210e51cb74809a39f82f81f7b15 ebrahimhaghighat77 <info@telepremium.ir> 1738230784 +0330	commit: feat: optimize some more car texture
+39cfafd576952210e51cb74809a39f82f81f7b15 17852f54b52a90f74b558cc3a18499b496ea5f58 ebrahimhaghighat77 <info@telepremium.ir> 1738405653 +0330	commit: feat: optimize last part car texture
+17852f54b52a90f74b558cc3a18499b496ea5f58 369cd1726d78fdb46c7133d0cfb956df5a3a1246 ebrahimhaghighat77 <info@telepremium.ir> 1738944372 +0330	commit: feat: optimize cars YFT part 1
+369cd1726d78fdb46c7133d0cfb956df5a3a1246 678596749b2687b4c404a79581201006ae100565 ebrahimhaghighat77 <info@telepremium.ir> 1738946586 +0330	commit: feat: optimize cars YFT part 2
+678596749b2687b4c404a79581201006ae100565 1ce9751ca72bb566fd8024cc836d92ec4ec073cb ebrahimhaghighat77 <info@telepremium.ir> 1738947607 +0330	commit: feat: optimize cars YFT last part
+1ce9751ca72bb566fd8024cc836d92ec4ec073cb 4824a4e4041606c934b48ad9b23ee77d1e154311 ebrahimhaghighat77 <info@telepremium.ir> 1739373754 +0330	commit: feat: car optimizes
+4824a4e4041606c934b48ad9b23ee77d1e154311 0e782924a0ac47a132ccd9c60d87f8d82718007d ebrahimhaghighat77 <info@telepremium.ir> 1739438687 +0330	commit (merge): Merge branch 'main' of github.com:infinity-tm/Infinity-Vehicles
+0e782924a0ac47a132ccd9c60d87f8d82718007d e6269af9b4c121fb18724b5931bbfed69432cf3f ebrahimhaghighat77 <info@telepremium.ir> 1739440400 +0330	commit: merge
+e6269af9b4c121fb18724b5931bbfed69432cf3f 38ef7b59aa11f5696a4e07a6c92403d7f80d8e9d ebrahimhaghighat77 <info@telepremium.ir> 1739445928 +0330	commit: feat: SRT car fix modkit
+38ef7b59aa11f5696a4e07a6c92403d7f80d8e9d 760f7a3b5250adadff7d5dd01b979660aca74c8f ebrahimhaghighat77 <info@telepremium.ir> 1739446547 +0330	pull --tags origin main: Merge made by the 'ort' strategy.
+760f7a3b5250adadff7d5dd01b979660aca74c8f c36841072dadd3867981b6b996922cf03c53cef1 ebrahimhaghighat77 <info@telepremium.ir> 1739447549 +0330	commit: feat: optimize more car
+c36841072dadd3867981b6b996922cf03c53cef1 224732c589015b2cce8d16494174a1622736e869 ebrahimhaghighat77 <info@telepremium.ir> 1739472627 +0330	commit: feat: more car optimize
+224732c589015b2cce8d16494174a1622736e869 bb4b17077893478c85ccd2d7e64e7351318f3862 ebrahimhaghighat77 <info@telepremium.ir> 1739484879 +0330	commit: feat: new police unmark CLS car
+bb4b17077893478c85ccd2d7e64e7351318f3862 90746b76ce0ee54bb3b4e1745f75cb81d91d21c1 ebrahimhaghighat77 <info@telepremium.ir> 1739484946 +0330	commit: feat: cls2015 garage name
+90746b76ce0ee54bb3b4e1745f75cb81d91d21c1 bb551af300c915a42698f778a8c455014b5b6ae8 ebrahimhaghighat77 <info@telepremium.ir> 1739540129 +0330	pull: Fast-forward
+bb551af300c915a42698f778a8c455014b5b6ae8 422f72cb12566922040a5cf0058c5a26cb4ec0fd ebrahimhaghighat77 <info@telepremium.ir> 1739543337 +0330	commit: feat: srt cars new handling
+422f72cb12566922040a5cf0058c5a26cb4ec0fd 2dc795f2aedec08664e39d47915d2fd794a5d4e4 ebrahimhaghighat77 <info@telepremium.ir> 1739544369 +0330	commit: feat: mh60l improved handeling
+2dc795f2aedec08664e39d47915d2fd794a5d4e4 ef6e4605cdada2305953d72f2463bd92ca22d577 ebrahimhaghighat77 <info@telepremium.ir> 1739660163 +0330	commit: feat: fix SRT cars glass bulletproof
+ef6e4605cdada2305953d72f2463bd92ca22d577 32f075d0347044eeb7bebfd0f0ad994d8be269b6 ebrahimhaghighat77 <info@telepremium.ir> 1739906005 +0330	commit: feat: venuumtt new handling
+32f075d0347044eeb7bebfd0f0ad994d8be269b6 a120018aad2213ad641210fec9b81901b079b469 ebrahimhaghighat77 <info@telepremium.ir> 1739909070 +0330	commit: feat: police cls2015 new handling
+a120018aad2213ad641210fec9b81901b079b469 d3ada7fe4a635d70f6ed4730329dfe258df1c579 ebrahimhaghighat77 <info@telepremium.ir> 1739990727 +0330	pull: Fast-forward
+d3ada7fe4a635d70f6ed4730329dfe258df1c579 4d476795ca89076ad995dfc2300259733cafc36b ebrahimhaghighat77 <info@telepremium.ir> 1739994520 +0330	commit: feat: audi r820 fix body
+4d476795ca89076ad995dfc2300259733cafc36b 4e56767a246791f3915be325281fd98d8a5584a2 ebrahimhaghighat77 <info@telepremium.ir> 1739994539 +0330	commit: feat: supra fix livery
+4e56767a246791f3915be325281fd98d8a5584a2 5bc54cf702f47164f2d734a601b5503731242166 ebrahimhaghighat77 <info@telepremium.ir> 1740165796 +0330	commit: feat: medic zendrack improved handling
+5bc54cf702f47164f2d734a601b5503731242166 1a5a2174fd741213fe1dfdb1e3e45d2b8d237259 ebrahimhaghighat77 <info@telepremium.ir> 1740170824 +0330	commit: feat: medic speedo van improved handling
+1a5a2174fd741213fe1dfdb1e3e45d2b8d237259 94eb5f0c3d869b71c59b07b1f6ede3cbc7eefc42 ebrahimhaghighat77 <info@telepremium.ir> 1740172479 +0330	commit: feat: medic Ambulance improved handling
+94eb5f0c3d869b71c59b07b1f6ede3cbc7eefc42 0d331e4d4125980f01a8ed05e116a5d9a0d5b56f ebrahimhaghighat77 <info@telepremium.ir> 1740173980 +0330	commit: feat: medic explorer improved handling
+0d331e4d4125980f01a8ed05e116a5d9a0d5b56f 3f653cb5867af401031db0e73c0817ced2ad421d ebrahimhaghighat77 <info@telepremium.ir> 1740174224 +0330	commit: feat: medic tahoe improved handling
+3f653cb5867af401031db0e73c0817ced2ad421d f59b97b23b9d7e9962c25a67ee440c2d6ddbd56b ebrahimhaghighat77 <info@telepremium.ir> 1740174267 +0330	commit: feat: medic lexus improved handling
+f59b97b23b9d7e9962c25a67ee440c2d6ddbd56b 083e69c23ecd2285fcbf87c2f5f3bbffe351c1d8 ebrahimhaghighat77 <info@telepremium.ir> 1740326619 +0330	commit: feat: fix brabus b50 bugs
+083e69c23ecd2285fcbf87c2f5f3bbffe351c1d8 aa45da2706d1a014ce98a3f32f747946894b2f89 ebrahimhaghighat77 <info@telepremium.ir> 1740345135 +0330	commit: feat: BMW i7 addon sound
+aa45da2706d1a014ce98a3f32f747946894b2f89 31ca61c8587c065e5a7bc7927cb4aee9d4abf70c ebrahimhaghighat77 <info@telepremium.ir> 1740345757 +0330	commit: feat: motobumblebee fix
+31ca61c8587c065e5a7bc7927cb4aee9d4abf70c d180b0cf9c2b69920c5b58700bbee0e165271d19 ebrahimhaghighat77 <info@telepremium.ir> 1740345826 +0330	commit: feat: rezvani tank fix
+d180b0cf9c2b69920c5b58700bbee0e165271d19 c3d7f69709956cbba47554d922bb4a5f6d9bb90d ebrahimhaghighat77 <info@telepremium.ir> 1740927535 +0330	pull: Fast-forward
+c3d7f69709956cbba47554d922bb4a5f6d9bb90d 5d3a41480de1f544e4821f8d749a44250cdf72eb ebrahimhaghighat77 <info@telepremium.ir> 1740929485 +0330	commit: feat: ivvalkyrie new handling
+5d3a41480de1f544e4821f8d749a44250cdf72eb d2be7f163affa0c7ba52d64d5d325020bd411441 ebrahimhaghighat77 <info@telepremium.ir> 1740929554 +0330	commit: feat: MH60L new handling
+d2be7f163affa0c7ba52d64d5d325020bd411441 b0351955169e7a682a829bdfc9f0af91e0f20272 ebrahimhaghighat77 <info@telepremium.ir> 1740929569 +0330	commit: feat: alifeliner new handling
+b0351955169e7a682a829bdfc9f0af91e0f20272 6d9dabebdcde7978fe8a2f5025b041036aaf8ad0 ebrahimhaghighat77 <info@telepremium.ir> 1740929591 +0330	commit: feat: emsaw139 new handling
+6d9dabebdcde7978fe8a2f5025b041036aaf8ad0 51929a9fdc73f20672b0bdf701a1363e5d6b24e0 ebrahimhaghighat77 <info@telepremium.ir> 1740929610 +0330	commit: feat: ivpolas350 new handling
+51929a9fdc73f20672b0bdf701a1363e5d6b24e0 1a3f94bb2e40ac743d944020a49f356d6f053923 ebrahimhaghighat77 <info@telepremium.ir> 1741080440 +0330	commit: feat: fix more heli handling
+1a3f94bb2e40ac743d944020a49f356d6f053923 b326921d37f57c475ace9c357576af3d92108067 ebrahimhaghighat77 <info@telepremium.ir> 1753597495 +0330	commit: feat: Im Back :)
+b326921d37f57c475ace9c357576af3d92108067 dcd2acd8eee4877406301855557773db69caed43 ebrahimhaghighat77 <info@telepremium.ir> 1753597582 +0330	commit: feat: infpolcls2015 last change
+dcd2acd8eee4877406301855557773db69caed43 3a5c3235e0c3f63651d2b13d03637d3085b3b1b5 ebrahimhaghighat77 <info@telepremium.ir> 1753927461 +0330	pull: Fast-forward
+3a5c3235e0c3f63651d2b13d03637d3085b3b1b5 098d7fb74239f95613f5c0fb296afd14d982371f ebrahimhaghighat77 <info@telepremium.ir> 1754048720 +0330	commit: feat: change to cars garage name
+098d7fb74239f95613f5c0fb296afd14d982371f 358deb7380343fc2275b6bdf8d30c1103f048b6e ebrahimhaghighat77 <info@telepremium.ir> 1754260256 +0330	commit: feat: ivpolexp improved handling
+358deb7380343fc2275b6bdf8d30c1103f048b6e 369cd1726d78fdb46c7133d0cfb956df5a3a1246 ebrahimhaghighat77 <info@telepremium.ir> 1754260429 +0330	checkout: moving from main to 369cd1726d78fdb46c7133d0cfb956df5a3a1246
+369cd1726d78fdb46c7133d0cfb956df5a3a1246 358deb7380343fc2275b6bdf8d30c1103f048b6e ebrahimhaghighat77 <info@telepremium.ir> 1754261125 +0330	checkout: moving from 369cd1726d78fdb46c7133d0cfb956df5a3a1246 to main
+358deb7380343fc2275b6bdf8d30c1103f048b6e 429d38b54e2741ecf6c3bdfdb95608ddbfc6c487 ebrahimhaghighat77 <info@telepremium.ir> 1754266297 +0330	commit: feat: fix rezvani tank body and engine damage
+429d38b54e2741ecf6c3bdfdb95608ddbfc6c487 ec5ad71de712128ebeae7950ae9da8e177a4d1f5 ebrahimhaghighat77 <info@telepremium.ir> 1754266350 +0330	commit: feat: fix Land Cruiser body and engine damage
+ec5ad71de712128ebeae7950ae9da8e177a4d1f5 6667e9ac4011e8f7e36ede10883b63c40c45818a ebrahimhaghighat77 <info@telepremium.ir> 1754267879 +0330	commit: feat: fix infpolstang LOD issue
+6667e9ac4011e8f7e36ede10883b63c40c45818a eeee3e43a4af56bdcf99fd4c42579c337c695700 ebrahimhaghighat77 <info@telepremium.ir> 1754268429 +0330	commit: feat: ivpolstang review handling
+eeee3e43a4af56bdcf99fd4c42579c337c695700 d212f1357f10c249c90c185f11a7a1f7b5eb74a7 ebrahimhaghighat77 <info@telepremium.ir> 1754292597 +0330	commit: feat: dirtbike fix mod kit
+d212f1357f10c249c90c185f11a7a1f7b5eb74a7 09c8b16fb2f7e24fd7f507a05b2c52d7412b9e00 ebrahimhaghighat77 <info@telepremium.ir> 1755178601 +0330	commit: feat: new Ford GT 350(Mustang 2025) on shop
+09c8b16fb2f7e24fd7f507a05b2c52d7412b9e00 0adda4eaa0918c9badfe453c604f4d3b96ada4b8 ebrahimhaghighat77 <info@telepremium.ir> 1755336025 +0330	commit: feat: cb1300 improved handling
+0adda4eaa0918c9badfe453c604f4d3b96ada4b8 af9fbbc64ef5d91af42785eb32ae14b2cbd6f4d7 ebrahimhaghighat77 <info@telepremium.ir> 1755336874 +0330	commit: feat: add mustang 2025 custom price
+af9fbbc64ef5d91af42785eb32ae14b2cbd6f4d7 9b7504f585d7a5035df4db30e8bb613b97ecf670 ebrahimhaghighat77 <info@telepremium.ir> 1755348851 +0330	commit: feat: fix Free Jobz faggio mass
+9b7504f585d7a5035df4db30e8bb613b97ecf670 5551906e10d91ca19c68ff1dc3828a57b3e378c3 ebrahimhaghighat77 <info@telepremium.ir> 1755923105 +0330	commit: feat: Camaro 2023 new SRT car
+5551906e10d91ca19c68ff1dc3828a57b3e378c3 8f77ca97cdf6741122690ba39281f0746ec54d82 ebrahimhaghighat77 <info@telepremium.ir> 1755924492 +0330	commit: feat: SRT Camaro new handling
+8f77ca97cdf6741122690ba39281f0746ec54d82 4d5ebc6505cf5db212e6602938c3a3c56d9c277b ebrahimhaghighat77 <info@telepremium.ir> 1755925033 +0330	commit: feat: add Camaro 2023 garage name
+4d5ebc6505cf5db212e6602938c3a3c56d9c277b 23d03f013c1621cb86ef9bc15bd278771d8f2836 ebrahimhaghighat77 <info@telepremium.ir> 1756174821 +0330	commit: feat: new marshal M5 unmark
+23d03f013c1621cb86ef9bc15bd278771d8f2836 77b40db5d4be8957ea7d1ab38bacc6582ef7e620 ebrahimhaghighat77 <info@telepremium.ir> 1756174901 +0330	commit: feat: new military MotorBike
+77b40db5d4be8957ea7d1ab38bacc6582ef7e620 425a927bfac41c806c5e0524155d1730b9e4cc68 ebrahimhaghighat77 <info@telepremium.ir> 1756174927 +0330	commit: feat: add new car garage name
+425a927bfac41c806c5e0524155d1730b9e4cc68 7e30a9ba51f7ffc86ef161169fff6ad2c48edbc0 ebrahimhaghighat77 <info@telepremium.ir> 1756655468 +0330	commit: feat: test <@503346752766738442>
+7e30a9ba51f7ffc86ef161169fff6ad2c48edbc0 10a1ac4fef10fda95baba9f8164eb01099bec7fc ebrahimhaghighat77 <info@telepremium.ir> 1756758705 +0330	commit: feat: new sheriff livery specially thanks to <@940367304410165278>
+10a1ac4fef10fda95baba9f8164eb01099bec7fc 4e9b8b8132c1169096c4665be32c4fe88d15fc97 ebrahimhaghighat77 <info@telepremium.ir> 1756774511 +0330	commit: feat: SRT camaro new handling
+4e9b8b8132c1169096c4665be32c4fe88d15fc97 2357626a31690a69c6f6dae4d82f6b5ed11507cb ebrahimhaghighat77 <info@telepremium.ir> 1756774564 +0330	commit: feat: ivpolchal set livey by <@940367304410165278>
+2357626a31690a69c6f6dae4d82f6b5ed11507cb 2b2012cd576ac3c4ea5b20dab2ae69333eb3c06d ebrahimhaghighat77 <info@telepremium.ir> 1756774599 +0330	commit: feat: camaro srt livey by <@940367304410165278>
+2b2012cd576ac3c4ea5b20dab2ae69333eb3c06d 89c9ca9c4759a3b2cf2a794475e214fc5e12d2f3 ebrahimhaghighat77 <info@telepremium.ir> 1756922765 +0330	commit: feat: test
+89c9ca9c4759a3b2cf2a794475e214fc5e12d2f3 536ef0ae44158d8c559e132bd6f53cbeca7ea787 ebrahimhaghighat77 <info@telepremium.ir> 1756939606 +0330	commit: feat: fix SRT riot ford invisible collision
+536ef0ae44158d8c559e132bd6f53cbeca7ea787 73ec141355afce6fbd243a0d214bc6f8d99a8c12 ebrahimhaghighat77 <info@telepremium.ir> 1756939655 +0330	commit: feat: fix BMW X7 wheel
+73ec141355afce6fbd243a0d214bc6f8d99a8c12 601c5aeb027cf4be80c91bea9425d35cf3e12476 ebrahimhaghighat77 <info@telepremium.ir> 1756954665 +0330	commit: feat: new swat van
+601c5aeb027cf4be80c91bea9425d35cf3e12476 7afca67acbae4c2b071409b33b6fe027fcbd687a ebrahimhaghighat77 <info@telepremium.ir> 1757122499 +0330	commit: feat: swatvan2 fix BULLET RESISTANT GLASS
+7afca67acbae4c2b071409b33b6fe027fcbd687a 4c8bb13fba1fb0cf0f9f1b17e4935c16247f908f ebrahimhaghighat77 <info@telepremium.ir> 1757122621 +0330	commit: feat: SRT and PD new livery by <@940367304410165278>
+4c8bb13fba1fb0cf0f9f1b17e4935c16247f908f 9a773a98ca49173e030f288322dd9077c31c1a98 ebrahimhaghighat77 <info@telepremium.ir> 1757166928 +0330	commit: feat: SRT camaro new sound
+9a773a98ca49173e030f288322dd9077c31c1a98 088dfeaa6670398dc0c5dd56121cab6431354871 ebrahimhaghighat77 <info@telepremium.ir> 1757262610 +0330	commit: feat: fix Land Cruiser Load siren sound :|
+088dfeaa6670398dc0c5dd56121cab6431354871 55adecc75ccf07cd6a4941314d9d589b41b9435d ebrahimhaghighat77 <info@telepremium.ir> 1757768579 +0330	commit: feat: swatvanr2 fix livery
+55adecc75ccf07cd6a4941314d9d589b41b9435d 6bc9c4a5de6d633b7ea36983695c516899f72b09 ebrahimhaghighat77 <info@telepremium.ir> 1757768615 +0330	commit: feat: fix more texture warning
+6bc9c4a5de6d633b7ea36983695c516899f72b09 95c7d4d47e7c78e1d54c6822ac409f7feb15d46a ebrahimhaghighat77 <info@telepremium.ir> 1759998018 +0330	commit: feat: add some more livery
+95c7d4d47e7c78e1d54c6822ac409f7feb15d46a d9f1c986c76f6d7e197c54a6eb10110431f8ed1b ebrahimhaghighat77 <info@telepremium.ir> 1759998042 +0330	commit: feat: fix noroz ford sound
+d9f1c986c76f6d7e197c54a6eb10110431f8ed1b 170771fbf1fd1ebd8f8b8890bfcf3d29fc749116 ebrahimhaghighat77 <info@telepremium.ir> 1759998752 +0330	pull --tags origin main: Merge made by the 'ort' strategy.
+170771fbf1fd1ebd8f8b8890bfcf3d29fc749116 f3ad96de89e7dbd4e5e7b50e7312392c02fc3aab ebrahimhaghighat77 <info@telepremium.ir> 1760076695 +0330	commit: feat: balance and improved bmw marshal
+f3ad96de89e7dbd4e5e7b50e7312392c02fc3aab 7de5f0c574b8de4dd296b1805d5ccb7ca15ae561 ebrahimhaghighat77 <info@telepremium.ir> 1760076738 +0330	commit: feat: improved SRT camaro
+7de5f0c574b8de4dd296b1805d5ccb7ca15ae561 b6e5923c8841811d21d00a5f0d523046b9bfe7f9 ebrahimhaghighat77 <info@telepremium.ir> 1760076766 +0330	commit: feat: fix and improved supra
+b6e5923c8841811d21d00a5f0d523046b9bfe7f9 c01aeb99577a01b871247088e5546379dc313735 ebrahimhaghighat77 <info@telepremium.ir> 1760076789 +0330	commit: feat: new handling for lambo aventador
+c01aeb99577a01b871247088e5546379dc313735 1187380324e54a746ce2e6eb3116906b6978b053 ebrahimhaghighat77 <info@telepremium.ir> 1760076806 +0330	commit: feat: add new handling for new GTR
+1187380324e54a746ce2e6eb3116906b6978b053 167b96902bb0777b38c509eb57e9693d55bc0b05 ebrahimhaghighat77 <info@telepremium.ir> 1760076948 +0330	commit: feat: cars garage name
+167b96902bb0777b38c509eb57e9693d55bc0b05 b8763fa29277ef9e4c1c9b4663093034b2884c37 ebrahimhaghighat77 <info@telepremium.ir> 1760395318 +0330	commit: feat: fix some handling
+b8763fa29277ef9e4c1c9b4663093034b2884c37 09d0529112a6a4e114b0ebef9fc132362f7963b3 ebrahimhaghighat77 <info@telepremium.ir> 1761431548 +0330	commit: feat: new texture medic
+09d0529112a6a4e114b0ebef9fc132362f7963b3 993e86be96194e7f4ca8663a5659a8506b4bf6f4 ebrahimhaghighat77 <info@telepremium.ir> 1763507651 +0330	commit: feat: New Funny Scooter
+993e86be96194e7f4ca8663a5659a8506b4bf6f4 d9b98046761c3a7a66c3e7135527ea4c53ff93e4 ebrahimhaghighat77 <info@telepremium.ir> 1763507690 +0330	commit: feat: Sikorsky S97 For SRT
+d9b98046761c3a7a66c3e7135527ea4c53ff93e4 1c37a346d5693eaf922dd4821e444742dfa3e758 ebrahimhaghighat77 <info@telepremium.ir> 1763507709 +0330	commit: feat: add garage lable
+1c37a346d5693eaf922dd4821e444742dfa3e758 31b56244fa70a3d530825c7391a910bbba2d5f92 ebrahimhaghighat77 <info@telepremium.ir> 1764098335 +0330	commit: feat: new Dodge Challenger Demon
+31b56244fa70a3d530825c7391a910bbba2d5f92 7cf62ef61f80d94abf7a78824652defb993cff05 ebrahimhaghighat77 <info@telepremium.ir> 1764323823 +0330	commit: feat: Added custom prices for some forgotten cars
+7cf62ef61f80d94abf7a78824652defb993cff05 ab67dcd61d89657bf6cbc355bacb96d17e97ad87 ebrahimhaghighat77 <info@telepremium.ir> 1764324020 +0330	commit: Added garage names for some cars
+ab67dcd61d89657bf6cbc355bacb96d17e97ad87 4355bff81a58762c45ad30a9f4554c71f76c4a55 ebrahimhaghighat77 <info@telepremium.ir> 1764327507 +0330	commit: feat: Mercedes-Benz McLaren problem solved
+4355bff81a58762c45ad30a9f4554c71f76c4a55 92fcdbcdf2673410021f20cbd71ebcdfaf5c1a8c ebrahimhaghighat77 <info@telepremium.ir> 1764956452 +0330	commit: feat: new car :D
+92fcdbcdf2673410021f20cbd71ebcdfaf5c1a8c 607b1c68791ca772a05782f8ee7e5f89267f47bd ebrahimhaghighat77 <info@telepremium.ir> 1766161069 +0330	commit: feat: s97raider rapple and xray
+607b1c68791ca772a05782f8ee7e5f89267f47bd f637087d208cfb50b9c7c8de5aa023405d45cc86 ebrahimhaghighat77 <info@telepremium.ir> 1766171786 +0330	commit: feat: leg23cam remove SRT livery add police livery
+f637087d208cfb50b9c7c8de5aa023405d45cc86 e94756815ca1d27129e0a113cdcb0b58efb2dff5 ebrahimhaghighat77 <info@telepremium.ir> 1766406283 +0330	commit: feat: bmwbike police livery
+e94756815ca1d27129e0a113cdcb0b58efb2dff5 a1130c6d733b74cd5e4a9c853772f2ce83555ef5 ebrahimhaghighat77 <info@telepremium.ir> 1766473151 +0330	commit: feat: polmav new livery
+a1130c6d733b74cd5e4a9c853772f2ce83555ef5 702f3f765789322c4633e8cf30625a8fa7c9e972 ebrahimhaghighat77 <info@telepremium.ir> 1766479581 +0330	commit: feat: charger 1969 new handling
+702f3f765789322c4633e8cf30625a8fa7c9e972 99dfa7378675b84e66278b5a83ceb62f2585fe4c ebrahimhaghighat77 <info@telepremium.ir> 1766479630 +0330	commit: feat: new car BMW M3 Sport Evolution 1990
+99dfa7378675b84e66278b5a83ceb62f2585fe4c e6bed59ea21f1537589332fcc1f502c06bf2bae9 ebrahimhaghighat77 <info@telepremium.ir> 1766479672 +0330	commit: feat: new car McLaren Senna 2020 with sound
+e6bed59ea21f1537589332fcc1f502c06bf2bae9 1b6ab2c125c1a9298abf574f18b2c8d9f9f6a66c ebrahimhaghighat77 <info@telepremium.ir> 1766479706 +0330	commit: feat: new car Shelby Super Snake S650 2024
+1b6ab2c125c1a9298abf574f18b2c8d9f9f6a66c 2ed3bde5eff8b0d48adc0d7fb970a26cfe34af33 ebrahimhaghighat77 <info@telepremium.ir> 1766479728 +0330	commit: feat: add new car garage name
+2ed3bde5eff8b0d48adc0d7fb970a26cfe34af33 f803088ac535b578bc7e03fe0035b774f867bc2d ebrahimhaghighat77 <info@telepremium.ir> 1766479772 +0330	commit: feat: add new car CustomPrices
+f803088ac535b578bc7e03fe0035b774f867bc2d 21bd2e9c4f5ce7e8fe2618a05fec3442498b5150 ebrahimhaghighat77 <info@telepremium.ir> 1766480134 +0330	commit: feat: Weazel News new car
+21bd2e9c4f5ce7e8fe2618a05fec3442498b5150 391b6d9f5add20318f68b5c98d44ec187f1116e3 ebrahimhaghighat77 <info@telepremium.ir> 1771658073 +0330	pull: Fast-forward
