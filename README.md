@@ -28,6 +28,12 @@ The Infinity server owner has no ownership or rights over this repository, its e
 
 Before spreading hate or making judgments, please check the commit logs available in the Infinity Discord server to review the development history and contributions.
 
+The commit logs that were previously available inside the Infinity Discord server have been removed.
+
+For transparency and proof of work, I have uploaded the Git HEAD file and repository data directly into this repository as evidence of my commits and development history.
+
+Even if Discord logs are deleted or modified, the Git history and HEAD data clearly demonstrate my contributions and timeline of work on these vehicles.
+
 ---------------------------------
 این ریپازیتوری شامل ماشین‌های استفاده‌شده در سرور Infinity Roleplay می‌باشد.
 
@@ -53,3 +59,12 @@ Before spreading hate or making judgments, please check the commit logs availabl
 صاحب سرور Infinity هیچ‌گونه حقی نسبت به این ریپازیتوری، ادیت‌ها، تنظیمات یا زحمات انجام‌شده ندارد.
 
 لطفاً قبل از هرگونه قضاوت یا هیت دادن، ابتدا به لاگ‌های کامیت موجود در دیسکورد Infinity مراجعه کنید.
+
+
+همچنین:
+
+لاگ‌های کامیت که قبلاً در دیسکورد Infinity موجود بودند، حذف شده‌اند.
+
+جهت شفاف‌سازی و اثبات زحمات انجام‌شده، فایل HEAD گیت و اطلاعات مربوط به ریپازیتوری در همین مخزن آپلود شده است تا تاریخچه کامیت‌ها و روند توسعه قابل بررسی باشد.
+
+حتی در صورت حذف یا تغییر لاگ‌های دیسکورد، تاریخچه گیت و اطلاعات HEAD به‌صورت شفاف نشان‌دهنده مشارکت و تایم‌لاین کاری بنده می‌باشد.
